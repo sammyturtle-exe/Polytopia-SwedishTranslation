@@ -5,7 +5,7 @@
   "text": {
     "action.info.attack": {
       "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-      "->": "Gör en attack med denna entitet. Välj entiteten och klicka på något av de röd markeringarna om du vill attackera"
+      "->": "Gör en attack med denna entitet. Välj entiten och klicka på en av de röda markeringarna om du vill attackera"
     },
     "action.info.boost": {
       "en": "Boost",
@@ -81,275 +81,275 @@
     },
     "action.info.meet": {
       "en": "Meet",
-      "->": ""
+      "->": "Träffa"
     },
     "action.info.move": {
       "en": "move this unit. Select the unit and tap any of the BLUE targets",
-      "->": ""
+      "->": "Flytta denna entitet. Välj entiten och klicka på en av de blåa markeringarna"
     },
     "action.info.peacetreaty": {
       "en": "Offer Peace",
-      "->": ""
+      "->": "Erbjud Frid"
     },
     "action.info.promote": {
       "en": "Promote",
-      "->": ""
+      "->": "Uppgradera"
     },
     "action.info.recover": {
       "en": "Recover",
-      "->": ""
+      "->": "Läk"
     },
     "action.info.remove": {
       "en": "Remove",
-      "->": ""
+      "->": "Ta bort"
     },
     "action.info.research": {
       "en": "research {0}.",
-      "->": ""
+      "->": "Forska {0}"
     },
     "action.info.reward": {
       "en": "Reward",
-      "->": ""
+      "->": "Belöning"
     },
     "action.info.reward.population": {
       "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
-      "->": ""
+      "->": "Detta kommer att höja befolkning på närmaste staden. När befolkningen blir tillräckligt stor så kommer staden gå upp en nivå och producera mer resurser"
     },
     "action.info.reward.resources": {
       "en": "That will give you an instant reward of {0} resources",
-      "->": ""
+      "->": "Detta kommer att ge dig en omedelbar belöning av {0} resurser"
     },
     "action.info.stay": {
       "en": "Stay",
-      "->": ""
+      "->": "Stanna"
     },
     "action.info.train": {
       "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
-      "->": ""
+      "->": "Träna en entitet i denna staden. Entiteter kan bli använda för att utforska världen och attackera fienden och att försvara dina städer"
     },
     "action.info.trip": {
       "en": "Trip",
-      "->": ""
+      "->": "Resa"
     },
     "action.info.upgrade": {
       "en": "Upgrade to {0}",
-      "->": ""
+      "->": "Uppgradera till {}"
     },
     "actionbox.building.decomposing": {
       "en": "Decomposing",
-      "->": ""
+      "->": "Lös upp"
     },
     "actionbox.building.decomposing.info": {
       "en": "This improvement will decompose at the end of this turn",
-      "->": ""
+      "->": "Denna förbättring kommer att lösas upp i slutet av denna rundan"
     },
     "actionbox.building.doit": {
       "en": "DO IT",
-      "->": ""
+      "->": "GÖR DET"
     },
     "actionbox.building.level": {
       "en": "level {0}/{1}",
-      "->": ""
+      "->": "Nivå {0}/{1}"
     },
     "actionbox.building.requiredtech": {
       "en": "You need to research {0} to do this, tap the 'Tech Tree' button.",
-      "->": ""
+      "->": "Du behöver forska {0} för att göra detta, klicka på 'Forskar-trädet'-knappen"
     },
     "actionbox.building.techtree": {
       "en": "TECH TREE",
-      "->": ""
+      "->": "FORSKAR-TRÄDET"
     },
     "actionbox.cantperformaction.description": {
       "en": "You cannot perform this action right now.",
-      "->": ""
+      "->": "Du kan inte göra detta just nu."
     },
     "actionbox.city": {
       "en": "City",
-      "->": ""
+      "->": "Stad"
     },
     "actionbox.city.level": {
       "en": "lvl {0}",
-      "->": ""
+      "->": "Nivå {0}"
     },
     "actionbox.confirm": {
       "en": "Confirm {0}",
-      "->": ""
+      "->": "Bekräfta {0}"
     },
     "actionbox.confirm.button": {
       "en": "YES",
-      "->": ""
+      "->": "JA"
     },
     "actionbox.confirm.info": {
       "en": "Are you sure you want to do this?",
-      "->": ""
+      "->": "Är du säker på att du vill göra detta?"
     },
     "actionbox.confirm.info.breakpeace": {
       "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
-      "->": ""
+      "->": "Är du säker på att du vill avbryta freden? Detta kommer att inaktivera alla dina entiter i resten av denna rundan."
     },
     "actionbox.confirm.info.breakpeace.disband": {
       "en": "It will also disband the {0} units you have in their territory.",
-      "->": ""
+      "->": "Det kommer också att ta bort {0} entiteter du har i deras område"
     },
     "actionbox.embassyestablished.description": {
       "en": "The embassy is already established.",
-      "->": ""
+      "->": "Embassaden är redan etablerad."
     },
     "actionbox.establishembassynocapital.description": {
       "en": "You cannot establish an embassy if the tribe has no capital.",
-      "->": ""
+      "->": "Du kan inte etablera en embassad om folket inte har en huvudstad"
     },
     "actionbox.insufficientfunds": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-      "->": ""
+      "->": "Du har inte tillräckligt med stjärnor för att köpa detta. Klicka 'nästa runda' för att få mer stjärnor"
     },
     "actionbox.pendingpeacetreaty.description": {
       "en": "Peace treaty pending. Waiting for {0} to respond",
-      "->": ""
+      "->": "Fredserbjudan skickad. Väntar på {0} att svara "
     },
     "actionbox.pendingpeacetreaty.title": {
       "en": "Pending Peace Treaty",
-      "->": ""
+      "->": "Fredserbjudan skickad"
     },
     "actionbox.tile.roads": {
       "en": "roads",
-      "->": ""
+      "->": "Vägar"
     },
     "actionbox.unit.ability": {
       "en": "Unit Ability",
-      "->": ""
+      "->": "Entitetsförmåga"
     },
     "actionbox.unit.Boosted": {
       "en": "Boosted",
-      "->": ""
+      "->": "Boosted"
     },
     "actionbox.unit.Frozen": {
       "en": "Frozen",
-      "->": ""
+      "->": "Fryst"
     },
     "actionbox.unit.Invisible": {
       "en": "Invisible",
-      "->": ""
+      "->": "Osynlig"
     },
     "actionbox.unit.kills": {
       "en": "{0}/{1} kills",
-      "->": ""
+      "->": "{0}/{1} Mord"
     },
     "actionbox.unit.new": {
       "en": "Train a new {0} {1}",
-      "->": ""
+      "->": "Träna en ny {0} {1}"
     },
     "actionbox.unit.Poisoned": {
       "en": "Poisoned",
-      "->": ""
+      "->": "Förgiftad"
     },
     "actionbox.unit.toomany": {
       "en": "(too many)",
-      "->": ""
+      "->": "(för många)"
     },
     "actionbox.unit.toomany.info": {
       "en": "This city can't support any more units. Upgrade the city to get more space for units.",
-      "->": ""
+      "->": "Denna staden kan inte ha mer entiter. Uppgradera staden för att få plats med mer entiteter."
     },
     "actionbox.unit.train": {
       "en": "TRAIN",
-      "->": ""
+      "->": "TRÄNA"
     },
     "actionbox.unit.upgrade": {
       "en": "UPGRADE",
-      "->": ""
+      "->": "UPPGRADER"
     },
     "actionbox.unit.veteran": {
       "en": "Veteran",
-      "->": ""
+      "->": "Veteran"
     },
     "actionbox.village": {
       "en": "Village",
-      "->": ""
+      "->": "By"
     },
     "actionbtn.remove.building": {
       "en": "Building",
-      "->": ""
+      "->": "Byggnad"
     },
     "actionbtn.remove.roads": {
       "en": "Roads",
-      "->": ""
+      "->": "Vägar"
     },
     "backend.connecting": {
       "en": "Connecting to server...",
-      "->": ""
+      "->": "Ansluter till servern..."
     },
     "backend.connecting.failed": {
       "en": "Could not establish a connection to the server",
-      "->": ""
+      "->": "Kunde inte etablera en anslutning till servern"
     },
     "backend.connection.lost": {
       "en": "Connection lost",
-      "->": ""
+      "->": "Anslutning tappad"
     },
     "backend.connection.lost.info": {
       "en": "Hold on while we're trying to reconnect",
-      "->": ""
+      "->": "Vänta lite medans vi försöker ansluta igen."
     },
     "backend.login.failed": {
       "en": "Login failed",
-      "->": ""
+      "->": "Inloggning misslyckad"
     },
     "backend.login.successful": {
       "en": "Logged in as {0}",
-      "->": ""
+      "->": "Inloggad som {0}"
     },
     "bottommenu.gamestats": {
       "en": "Game Stats",
-      "->": ""
+      "->": "Statistik"
     },
     "bottommenu.menu": {
       "en": "Menu",
-      "->": ""
+      "->": "Meny"
     },
     "bottommenu.nextturn": {
       "en": "Next Turn",
-      "->": ""
+      "->": "Nästa Runda"
     },
     "bottommenu.techtree": {
       "en": "Tech Tree",
-      "->": ""
+      "->": "Forsknings-träd"
     },
     "building.ability.attract": {
       "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
-      "->": ""
+      "->": "Attraherar ett vilt djur till närmaste skogs-ruta varje {1}"
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
-      "->": ""
+      "->": "{0} skapar en bro som en entitet kan flytta på, ignorerar terräng-typen under."
     },
     "building.ability.embark": {
       "en": "Units that move here will turn into boats that can move on water.",
-      "->": ""
+      "->": "Entiteter som flyttar hit kommer att förvandlas till båtar som kan åka på vatten."
     },
     "building.ability.heal": {
       "en": "{0} heals any friendly unit that end their turn next to them.",
-      "->": ""
+      "->": "{0} läker en vänlig entitet som avslutar deras runda till dem"
     },
     "building.ability.limited": {
       "en": "You can only build one {0} per city.",
-      "->": ""
+      "->": "Du kan bara bygga en {0} per stad."
     },
     "building.ability.network": {
       "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
-      "->": ""
+      "->": "{1} ansluter till städer och andra {1} via {0}, inom en {2} rutor radie."
     },
     "building.ability.patina": {
       "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
-      "->": ""
+      "->": "{0} växer var {1} rundor och ger {2} för varhe nivå av växning."
     },
     "building.ability.poison": {
       "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
-      "->": ""
+      "->": "{0} förgifta en entitet som trampar på dem. Förgiftade entiteter förlorar alla försvarar-bonusar och sprider rötter när de dör."
     },
     "building.ability.road": {
       "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
-      "->": ""
+      "->": "Bygg vägar för att ansluta städer med huvudstaden. Anslutna städer får 1 invånarare som belöning, Vägar ger också en förflyttnings-bonus till alla entiteter"
     },
     "building.ability.route": {
       "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
