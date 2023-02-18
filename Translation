@@ -57,27 +57,27 @@
     },
     "action.info.establishembassy": {
       "en": "Establish Embassy",
-      "->": ""
+      "->": "Etablera Ambassad"
     },
     "action.info.examineruins": {
       "en": "Examine",
-      "->": ""
+      "->": "Examinera"
     },
     "action.info.explode": {
       "en": "Explode",
-      "->": ""
+      "->": "Spräng"
     },
     "action.info.freezearea": {
       "en": "Freeze Area",
-      "->": ""
+      "->": "Frys Område"
     },
     "action.info.healarea": {
       "en": "Heal Area",
-      "->": ""
+      "->": "Läk Område"
     },
     "action.info.healothers": {
       "en": "Heal Others",
-      "->": ""
+      "->": "Läk Andra"
     },
     "action.info.meet": {
       "en": "Meet",
