@@ -353,23 +353,23 @@
     },
     "building.ability.route": {
       "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
-      "->": ""
+      "->": "{1} skapar trading-rutiner genom {0} till en annan {1} inom en {2} rutor radie"
     },
     "building.ability.route.and": {
       "en": "and ",
-      "->": ""
+      "->": "och "
     },
     "building.ability.ruin": {
       "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
-      "->": ""
+      "->": "En ruin från en gammal civilisation, den kan innehålla värdeluffa saker! Gå dit med en entitet för att utforska den."
     },
     "building.ability.unique": {
       "en": "{0} can only be built once.",
-      "->": ""
+      "->": "{0} kan bara bli byggt en gång"
     },
     "building.capital.owner": {
       "en": "{0} is the {1} capital",
-      "->": ""
+      "->": "{0} är {1} huvudstad"
     },
     "building.capital.owner.former": {
       "en": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
